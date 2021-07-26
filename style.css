@@ -28,3 +28,15 @@ header{
   background-repeat: no-repeat;
   background-position: top right;
 }
+
+.services {
+  background-image: url(images/Group\ 4.png);
+  background-repeat: no-repeat;
+  background-position: right 10% top 25%;
+}
+
+.destination {
+  background-image: url(images/Decore51.png);
+  background-repeat: no-repeat;
+  background-position: right 0% top 18%;
+}
