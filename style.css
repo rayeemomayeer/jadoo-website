@@ -40,3 +40,12 @@ header{
   background-repeat: no-repeat;
   background-position: right 0% top 18%;
 }
+.subs{
+  background-color: #f0ebffc7;
+  padding: 100px;
+}
+@media only screen and (max-width: 688px){
+  .subs{
+    padding: 10px;
+  }
+}
