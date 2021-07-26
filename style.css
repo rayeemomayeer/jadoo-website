@@ -7,7 +7,7 @@ h1,h2 {
   color: #181E4B;
 }
 h1{
-  font-size: 84px;
+  font-size: 4em;
 }
 h2{
   font-size: 50px;
@@ -19,6 +19,12 @@ h4{
 }
 p{
   color: #5E6282;
-  font-size: 16px;
+  font-size: 0.9em;
   font-family: 'Poppins',sans-serif;
+}
+
+header{
+  background-image: url(images/Decore.png);
+  background-repeat: no-repeat;
+  background-position: top right;
 }
